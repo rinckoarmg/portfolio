@@ -1,0 +1,6 @@
+name: Perfil
+description: Muestra un resumen del perfil
+package: Custom
+type: module
+core: 8.x
+version: '1.0'

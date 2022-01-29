@@ -1,0 +1,6 @@
+perfil.admin:
+  title: Perfil DMG
+  description: Muestra un resumen del perfil
+  parent: system.admin_content
+  route_name: perfil.content
+  weight: 100

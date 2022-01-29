@@ -1,0 +1,7 @@
+perfil.content:
+  path: '/perfil'
+  defaults:
+    _controller: '\Drupal\perfil\Controller\PerfilController::content'
+    _title: 'Mi perfil'
+  requirements:
+    _permission: 'access content'
