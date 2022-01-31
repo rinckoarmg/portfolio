@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "a837c1845a0de8b395561b23d359a10a",
+    "content-hash": "17bdf6bae1faf5df67edcd2417f174f4",
     "packages": [
         {
             "name": "asm89/stack-cors",
@@ -1502,6 +1502,50 @@
             "support": {
                 "source": "https://git.drupalcode.org/project/druppio_small_business",
                 "issues": "https://www.drupal.org/project/issues/druppio_small_business"
+            }
+        },
+        {
+            "name": "drupal/fullscreen_gallery",
+            "version": "1.1.0",
+            "source": {
+                "type": "git",
+                "url": "https://git.drupalcode.org/project/fullscreen_gallery.git",
+                "reference": "8.x-1.1"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://ftp.drupal.org/files/projects/fullscreen_gallery-8.x-1.1.zip",
+                "reference": "8.x-1.1",
+                "shasum": "716939f5781c656d9a3ced0ffe3011e38b1137e5"
+            },
+            "require": {
+                "drupal/core": "^8 || ^9"
+            },
+            "type": "drupal-module",
+            "extra": {
+                "drupal": {
+                    "version": "8.x-1.1",
+                    "datestamp": "1636882135",
+                    "security-coverage": {
+                        "status": "covered",
+                        "message": "Covered by Drupal's security advisory policy"
+                    }
+                }
+            },
+            "notification-url": "https://packages.drupal.org/8/downloads",
+            "license": [
+                "GPL-2.0-or-later"
+            ],
+            "authors": [
+                {
+                    "name": "zbombicz",
+                    "homepage": "https://www.drupal.org/user/325952"
+                }
+            ],
+            "description": "Fullscreen gallery implemented as image formatter",
+            "homepage": "https://www.drupal.org/project/fullscreen_gallery",
+            "support": {
+                "source": "https://git.drupalcode.org/project/fullscreen_gallery"
             }
         },
         {

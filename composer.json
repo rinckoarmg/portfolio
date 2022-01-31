@@ -25,6 +25,7 @@
     "drupal/country_state_city": "^2.1",
     "drupal/ctools": "^3.7",
     "drupal/druppio_small_business": "^1.10",
+    "drupal/fullscreen_gallery": "^1.1",
     "drupal/paxton": "2.0.x-dev@dev",
     "drupal/raspberry": "^1.0",
     "drupal/responsive_views_grid": "^1.1",

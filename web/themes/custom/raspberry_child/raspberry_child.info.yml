@@ -1,0 +1,59 @@
+name: Raspberry Child
+type: theme
+description: 'Designed & Developed by <a href=https://about.me/ankithinglajia target="_blank">Ankit Hinglajia</a><br/>Contact me for any kind of Dia@gmail.com</a>'
+package: core
+base theme: raspberry
+core_version_requirement: ^8 || ^9
+
+#Libraries
+libraries:
+  - raspberry/bootstrap
+  - raspberry/flexslider
+  - raspberry/fontawesome
+  - raspberry/smartmenus
+  - raspberry/animate
+  - raspberry/global-components
+
+#Regions
+regions:
+
+  #Header
+  header: 'Header'
+  primary_menu: 'Primary menu'  
+
+  #Homepage Regions
+  welcomemessage: 'Home page welcome message'
+
+  topwidget_first: 'Top first widget'
+  topwidget_second: 'Top second widget'
+  topwidget_third: 'Top third widget' 
+
+  latest_blog: 'Latest Blog'
+  testimonials: 'Testimonials'
+
+  google_map: 'Google map'
+  address: 'Address'
+
+  bottom_first: 'Bottom first widget'
+  bottom_second: 'Bottom second widget'
+  bottom_third: 'Bottom third widget'
+  bottom_forth: 'Bottom forth widget'
+
+
+  #Global Region
+  highlighted: 'Highlighted' 
+  page_title: 'Page title'
+  breadcrumb: 'Breadcrumb'
+  content_top: 'Page top'
+  content: 'Content'
+  sidebar_first: 'Left sidebar'
+  sidebar_second: 'Right sidebar'
+  content_bottom: 'Page Bottom'
+
+  footer_first: 'Footer first widget'
+  footer_second: 'Footer second widget'
+  footer_third: 'Footer third widget'
+  footer_fourth: 'Footer fourth widget'
+
+
+  auto_hidden_block: 'Auto hidden blocks'
